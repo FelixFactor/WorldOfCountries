@@ -1,0 +1,13 @@
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\bin\Debug\netstandard2.0\WorldOfCountries.Mobile.deps.json
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\bin\Debug\netstandard2.0\WorldOfCountries.Mobile.dll
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\bin\Debug\netstandard2.0\WorldOfCountries.Mobile.pdb
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\WorldOfCountries.Mobile.csprojAssemblyReference.cache
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\WorldOfCountries.Mobile.AssemblyInfoInputs.cache
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\WorldOfCountries.Mobile.AssemblyInfo.cs
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\WorldOfCountries.Mobile.csproj.CoreCompileInputs.cache
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\WorldOfCountries.Mobile.dll
+C:\C#Projects\WorldOfCountries\WorldOfCountries.Mobile\WorldOfCountries.Mobile\obj\Debug\netstandard2.0\WorldOfCountries.Mobile.pdb
