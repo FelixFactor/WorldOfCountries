@@ -1,0 +1,13 @@
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\bin\Debug\netstandard2.0\WorldOfCountriesMobile.Prism.deps.json
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\bin\Debug\netstandard2.0\WorldOfCountriesMobile.Prism.dll
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\bin\Debug\netstandard2.0\WorldOfCountriesMobile.Prism.pdb
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\Views\CountriesPage.xaml.g.cs
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\WorldOfCountriesMobile.Prism.AssemblyInfoInputs.cache
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\WorldOfCountriesMobile.Prism.AssemblyInfo.cs
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\WorldOfCountriesMobile.Prism.dll
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\WorldOfCountriesMobile.Prism.pdb
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\WorldOfCountriesMobile.Prism.csproj.CoreCompileInputs.cache
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\WorldOfCountriesMobile.Prism.csprojAssemblyReference.cache
+C:\C#Projects\WorldOfCountries\WorldOfCountriesMobile\WorldOfCountriesMobile\obj\Debug\netstandard2.0\Views\CountryDetailsPage.xaml.g.cs
